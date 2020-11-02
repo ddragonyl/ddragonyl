@@ -1,26 +1,7 @@
-### Hi there 👋
-
-<!--
-**ddragonyl/ddragonyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ## Hi there 👋
 
 > 不忘初心方得始终 初心易得始终难守  
 > Don’t forget your original intention, always get it  
-
 
 
 ![](https://komarev.com/ghpvc/?username=yyx990803&color=brightgreen)
@@ -40,16 +21,12 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/AVS1508">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cyea&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cyea&layout=compact&langs_count=8&theme=react"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ddragonyl&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ddragonyl&layout=compact&langs_count=8&theme=react"/>
 </a>
 
-
-
 <!--
-**cyea/cyea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🤔 I’m looking for help with ...
+**ddragonyl/ddragonyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -62,4 +39,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
