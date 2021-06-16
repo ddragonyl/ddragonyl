@@ -5,7 +5,7 @@
 
 ### Visitor Count
 <p align="left"> 
-  <img src="https://profile-counter.glitch.me/owen2016/count.svg" />
+  <img src="https://profile-counter.glitch.me/ddragonyl/count.svg" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=yyx990803&color=brightgreen)
