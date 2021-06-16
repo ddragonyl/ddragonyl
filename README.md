@@ -3,12 +3,12 @@
 > 不忘初心方得始终 初心易得始终难守  
 > Don’t forget your original intention, always get it  
 
+![](https://komarev.com/ghpvc/?username=yyx990803&color=brightgreen)
+
 ### Visitor Count
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/ddragonyl/count.svg" />
 </p>
-
-![](https://komarev.com/ghpvc/?username=yyx990803&color=brightgreen)
 
 ### 🛠 &nbsp;Tech Stack
 
